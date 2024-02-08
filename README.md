@@ -24,7 +24,7 @@ Feel free to explore each project folder to discover the code, documentation, an
 I'm a Python enthusiast and developer with a passion for building practical and innovative solutions using Python. This repository reflects my journey of exploration and experimentation with Python, showcasing my commitment to continuous learning and creativity in programming.
 
 ## Get in Touch
-Have questions, feedback, or ideas to share? Don't hesitate to reach out! You can find me on [LinkedIn](https://www.linkedin.com/in/yourprofile) or [Twitter](https://twitter.com/yourhandle). Let's connect and discuss all things Python!
+Have questions, feedback, or ideas to share? Don't hesitate to reach out! You can find me on [LinkedIn](https://www.linkedin.com/in/amit-s-sahu/). Let's connect and discuss all things Python!
 
 ## Let's Collaborate!
 Are you interested in collaborating on Python projects or have ideas for exciting Python-based ventures? I'm always open to collaboration and eager to work with fellow developers, data scientists, and enthusiasts. Let's collaborate and turn our Python dreams into reality! 🚀
