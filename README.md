@@ -5,22 +5,62 @@ Welcome to my projects repository! Here, you'll find a diverse collection of pro
 
 ## What's Inside?
 Explore projects in different languages and domains, including:
-- **C:** (project names)
-- **C++:** (project names)
-- **Python:**
-  - Arithmetic Formatter
-  - Budget App
-  - Case Converter
-  - Cipher
-  - Expense Tracker
-  - Luhn Algorithm
-  - Password Generator
-  - Shortest Path Algorithm
-  - Sudoku Solver
-  - Time Calculator
-- **Java:** (project names)
-- **AIML:** (project names)
-- **WebDev:** (project names)
+
+### C:
+_(Project names to be added)_
+
+### C++:
+_(Project names to be added)_
+
+### Python:
+
+#### **Games:**
+- Etch-a-Sketch
+- Ninja Game
+- Ping Pong
+- Snake
+- Turtle Race
+
+#### **Mini-Projects:**
+- arithmetic_formatter.py
+- bmi_calculator.py
+- budget_app.py
+- case_converter.py
+- cipher.py
+- expense_tracker.py
+- luhn_algorithm.py
+- password_generator.py
+- rock_paper_scissor.py
+- shortest_path_algorithm.py
+- sudoku_solver.py
+- time_calculator.py
+- tip_calculator.py
+- treasure_island.py
+
+### Java:
+_(Project names to be added)_
+
+### AIML:
+- **AI-Chatbot**
+- **CIFAR-10-Classification**
+- **Disease-Prediction**
+- **Handwritten-Digit-Classification**
+- **Image-Caption-Generator**
+- **Image-Style-Transfer**
+- **LLM-from-Scratch**
+- **Lunar-Surface-Feature-Segmentation**
+- **Malaria-Prediction**
+- **Movie-Recommender-System**
+- **Object-Detection**
+- **PDF2Audio**
+- **Second-Hand-Cars-Price-Prediction**
+- **Snake-Game-Reinforcement-Learning**
+- **SONAR-Rock-vs-Mine**
+- **Stock-Prediction**
+- **Tweet-Sentiment-Analysis**
+
+### WebDev:
+_(Project names to be added)_
 
 Feel free to dive into each folder to discover the code, documentation, and any additional resources provided for each project.
 
